@@ -1,3 +1,9 @@
-h1{
+h3{
     color: aquamarine;
+}
+p{
+    color: darkolivegreen;
+    padding: 1.5%;
+    width: 5%;
+    border-radius: 15px;
 }
